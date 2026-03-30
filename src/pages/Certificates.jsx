@@ -14,7 +14,7 @@ const CERTS = {
     {
       title: "",
       org: "",
-      date: "2025",
+      date: "",
       img: "/certs/",
       link: "/certs/",
     },
