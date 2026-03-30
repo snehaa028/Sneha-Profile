@@ -5,11 +5,11 @@ import { motion, AnimatePresence } from "framer-motion";
 const CERTS = {
   tech: [
     {
-      title: "Tital",
-      org: "Google",
-      date: "2021",
-      img: "/certs/",
-      link: "/certs/",
+      title: "Internship",
+      org: "Infosys",
+      date: "2025",
+      img: "/certs/Infosys.JPG",
+      link: "/certs/Infosys.JPG",
     },
     {
       title: "",
